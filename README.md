@@ -1,8 +1,4 @@
-Hello.
-
-Links:<br>
-[Website](https://stephenoravec.com/)<br>
-[Twitter](https://twitter.com/stephenoravec)<br>  
+Hi Hey Hello 
 
 <!--
 **StephenOravec/StephenOravec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
