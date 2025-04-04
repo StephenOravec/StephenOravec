@@ -1,4 +1,4 @@
-Hi Hey Hello 
+![](https://github.com/StephenOravec/StephenOravec/blob/main/oravec-seaside.jpg?raw-true)
 
 <!--
 **StephenOravec/StephenOravec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
